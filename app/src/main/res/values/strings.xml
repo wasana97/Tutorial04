@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tute04</string>
+    <string name="list" />
+    <string name="welcom_here" />
+    <string name="lab_button5" />
+    <string name="lab_button4" />
+    <string name="lab_button3" />
+    <string name="lab_button2" />
+    <string name="lab_button1" />
+    <string name="lab_pass" />
+    <string name="lab_UserName" />
+</resources>
